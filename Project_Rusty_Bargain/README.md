@@ -27,7 +27,8 @@ Step 3. Analyze the speed and quality of the models.
 
 ## Project Learnings:
 ✔️ Build and evaluate models to predict used car prices, successfully conduct EDA, handle missing values and outliers, 
-✔️ Encode cetegorical columns, t
-rain and tune several models, compare their RMSE and speed, and chose the best model for the final testing. 
+
+✔️ Encode cetegorical columns, train and tune several models, compare their RMSE and speed, and chose the best model for the final testing. 
+
 ✔️ Prepare and encode large data and how to weigh training speed vs. prediction error, and why this matters in real-world applications. 
 
