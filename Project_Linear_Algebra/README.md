@@ -1,4 +1,4 @@
-# Machine Learning Project - Linear Algebra
+# Machine Learning Project - Linear Algebra: Insurance Company
 
 ## Project Description:
 The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.
@@ -17,8 +17,11 @@ You don't need to pick the best model, just prove that the algorithm works corre
 
 ## Project Instructions:
 Step 1: Load the data.
+
 Step 2: Check that the data is free of issues — there is no missing data, extreme values, and so on.
+
 Step 3: Work on each task and answer the questions posed in the project template.
+
 Step 4: Draw conclusions based on your experience working on the project.
 
 ## Project Notes:
