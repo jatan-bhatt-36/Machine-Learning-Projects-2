@@ -27,13 +27,19 @@ Step 4: Draw conclusions based on your experience working on the project.
 ## Project Notes:
 - Linear Algebra is the mathematical foundation for many Machine Learning algorithms.
 - Work with obfuscated data to ensure the model will work with protected user data.
-- In some cases, we do not need advanced models, it is enough to use algorithms like KNN;
+- In some cases, we do not need advanced models, it is enough to use algorithms like KNN.
+- Standardization and Scaling are critical techniques. Apply them and understand their impact on the models.
+- Without standardization, each coefficient also reflects the scale of its corresponding feature.
+
 
 ## Project Learnings:
-✔️ Correct usage of The NearestNeighbors algorithm. Even though it is a simple algorithm, it is still a great tool.
-
-✔️ Excellent application of KNN for classification task and building the Linear Regression class.
+✔️ Correct usage of The NearestNeighbors algorithm. Excellent application of KNN for classification task and building Linear Regression class.
 
 ✔️ Successfully demonstrated that obfuscating data will not impact the model performance. This is a very important inference because it shows the model will work with protected user data.
+
+✔️ Scaling does not change RMSE for Linear Regression, because any changes in the variables will be absorbed into the new coefficients.
+
+✔️ Standardization in Linear Regression interprets the importance of features based on the magnitude of their coefficients: the larger the coefficient, the greater its importance.
+
 
 
