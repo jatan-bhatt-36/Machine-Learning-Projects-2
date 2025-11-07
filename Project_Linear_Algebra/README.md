@@ -1,4 +1,4 @@
-# Machine Learning Project - Linear Algebra: Insurance Company
+# Linear Algebra Project - Insurance Company
 
 ## Project Description:
 The Sure Tomorrow insurance company wants to solve several tasks with the help of Machine Learning, and you are asked to evaluate that possibility.
