@@ -26,6 +26,14 @@ Step 4: Draw conclusions based on your experience working on the project.
 
 ## Project Notes:
 - Linear Algebra is the mathematical foundation for many Machine Learning algorithms.
-- 
+- Work with obfuscated data to ensure the model will work with protected user data.
+- In some cases, we do not need advanced models, it is enough to use algorithms like KNN;
 
 ## Project Learnings:
+✔️ Correct usage of The NearestNeighbors algorithm. Even though it is a simple algorithm, it is still a great tool.
+
+✔️ Excellent application of KNN for classification task and building the Linear Regression class.
+
+✔️ Successfully demonstrated that obfuscating data will not impact the model performance. This is a very important inference because it shows the model will work with protected user data.
+
+
