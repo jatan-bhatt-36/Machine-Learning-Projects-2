@@ -17,7 +17,7 @@ The RMSE metric on the test set should not be more than 48.
 
 🗝️ Autoregressive (AR); Moving Average (MA); Autoregressive Integrated Moving Average (ARIMA)
 
-🗝️ Linear Regression, Random Forest, LightGBM, Time-based models
+🗝️ Linear Regression, Random Forest, LightGBM, Time-Series Forecasting
 
 🗝️ Feature Engineering; RMSE Metric
 
