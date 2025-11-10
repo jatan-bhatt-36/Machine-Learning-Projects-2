@@ -14,12 +14,16 @@ The RMSE metric on the test set should not be more than 48.
 
 ## Key Concepts:
 🗝️ Resampling data using df.resample()
-🗝️ Autoregressive (AR); Moving Average (MA); Autoregressive Integrated Moving Average (ARIMA)
-🗝️ Linear Regression, Random Forest, LightGBM, Time-based models
-🗝️ Feature Engineering; RMSE Metric
 
+🗝️ Autoregressive (AR); Moving Average (MA); Autoregressive Integrated Moving Average (ARIMA)
+
+🗝️ Linear Regression, Random Forest, LightGBM, Time-based models
+
+🗝️ Feature Engineering; RMSE Metric
 
 ## What I Learned:
 ✔️ Time-based models are built on the assumption that past values contain information about the future.
+
 ✔️ Univariate time series data - forecasting a single variable's future based on its own past.
+
 ✔️ ARIMA models assume Linearity in data and don't work well with non-linear relationships.
